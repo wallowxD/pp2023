@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: LE NHAT MINH
+* Student Name: Lê Nhật Minh
 * Student ID: BI12-289
 
